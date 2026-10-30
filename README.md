@@ -3,6 +3,7 @@
 FinPilot AI (frontend branded as **WealthAI**) is a cutting-edge personal finance and budgeting assistant powered by generative AI. By combining a modern React frontend with a robust FastAPI backend and Google Gemini, FinPilot AI offers an unparalleled capability for managing transactions, projecting budgets, tracking financial health, and receiving intelligent, agentic financial advice.
 
 ---
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/18332eef-ddd3-4607-aa17-767a935374dc" />
 
 ## 1. Feature List
 
