@@ -10,4 +10,4 @@ bcrypt
 passlib[bcrypt]
 google-genai>=0.1.0
 reportlab
-psycopg2-binary
+psycopg[binary]
