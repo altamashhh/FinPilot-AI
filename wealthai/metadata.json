@@ -1,0 +1,6 @@
+{
+  "name": "WealthAI",
+  "description": "Premium personal wealth analyzer and AI financial assistant dashboard featuring dynamic budgets, real-time transaction logging, and intelligent forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+python-jose[cryptography]
+bcrypt
+passlib[bcrypt]
+google-genai>=0.1.0
+reportlab
